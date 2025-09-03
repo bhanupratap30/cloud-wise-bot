@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/029ed90e-8832-44a7-a095-22f1dac73ef5) and start prompting.
+Simply visit the [Lovable Project](https://cloudwise-bot-37.lovable.app) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
